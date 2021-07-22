@@ -1,3 +1,3 @@
 # Visual Computing Template
 
-Check the [live site](https://visualcomputing.github.io/vc/) for the information.
+Check the [live site](https://maaguilarca.github.io/vc/) for the information.

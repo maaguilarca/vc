@@ -1,4 +1,4 @@
-let facemesh;
+nnlet facemesh;
 let predictions = [];
 let img;
 
